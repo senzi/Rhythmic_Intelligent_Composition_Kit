@@ -1,6 +1,6 @@
 ---
 title: Rhythmic Intelligent Composition Kit
-emoji: 🏆
+emoji: 🎵
 colorFrom: pink
 colorTo: gray
 sdk: gradio
